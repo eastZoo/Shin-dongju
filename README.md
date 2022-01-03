@@ -1,4 +1,4 @@
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Dongju Shin&fontSize=80&animation=twinkling&fontAlignY=40"/></div>
+<!-- <div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Dongju Shin&fontSize=80&animation=twinkling&fontAlignY=40"/></div>
 <div align="center">
 <h3>🔰 Shin-dongju 🔰</h3>
 <p><a href="https://eastzoo.co.kr" target="_blank"><img src="https://img.shields.io/badge/Laboratory-8E7CC3?style=flat&logo=Notion&logoColor=white"/></a></p>
@@ -6,7 +6,7 @@
 <p>My main skills is Loading..</p>
  
 <p>Rejoice always, pray continually, give thanks in all circumstances for this is God’s will for you in Christ Jesus.(1Thessalonians 5:16-18)</p>
-  
+   -->
 <!-- 
  ## :computer: Main Stack
  -->
@@ -23,7 +23,7 @@
 
  ---
  
-#
+<!-- #
 <h3>❤️ I love...</h3>
 <p>🖥Youtube,&nbsp;&nbsp;💻Programming,&nbsp;&nbsp;🎥Movies,&nbsp;&nbsp;🌐Woowakgood</p>
   
@@ -34,7 +34,7 @@
 <p><img src="https://img.shields.io/badge/Node.js-c2c5c5?style=flat&logo=Node.js&logoColor=339933"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Python-white?style=flat&logo=Python&logoColor=#3776AB"/></p>
 
 <p><img src="https://img.shields.io/badge/Notion-b4f5bd?style=flat&logo=Notion&logoColor=black"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Git-blue?style=flat&logo=Git&logoColor=F05032"/></p>
-  
+   -->
 #
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=eastzoo&show_icons=true&theme=tokyonight)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eastzoo&layout=compact&theme=tokyonight)
 
