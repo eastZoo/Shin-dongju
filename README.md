@@ -13,7 +13,8 @@
  <div align="center">
 <h3>🔰 Shin-dongju 🔰</h3>
 <p><a href="https://eastzoo.co.kr" target="_blank"><img src="https://img.shields.io/badge/Laboratory-8E7CC3?style=flat&logo=Notion&logoColor=white"/></a></p>
- ## 학교 활동 및 수상
+ 
+## 학교 활동 및 수상
 
    ### 2021
    #### 2021 동서인 AI 해커톤 경진대회 
