@@ -1,4 +1,4 @@
-<!-- <div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Dongju Shin&fontSize=80&animation=twinkling&fontAlignY=40"/></div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Dongju Shin&fontSize=80&animation=twinkling&fontAlignY=40"/></div>
 <div align="center">
 <h3>🔰 Shin-dongju 🔰</h3>
 <p><a href="https://eastzoo.co.kr" target="_blank"><img src="https://img.shields.io/badge/Laboratory-8E7CC3?style=flat&logo=Notion&logoColor=white"/></a></p>
@@ -6,7 +6,7 @@
 <p>My main skills is Loading..</p>
  
 <p>Rejoice always, pray continually, give thanks in all circumstances for this is God’s will for you in Christ Jesus.(1Thessalonians 5:16-18)</p>
-   -->
+
 <!-- 
  ## :computer: Main Stack
  -->
@@ -30,7 +30,7 @@
 
  ---
  
-<!-- #
+#
 <h3>❤️ I love...</h3>
 <p>🖥Youtube,&nbsp;&nbsp;💻Programming,&nbsp;&nbsp;🎥Movies,&nbsp;&nbsp;🌐Woowakgood</p>
   
