@@ -1,7 +1,7 @@
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=eastZoo&fontSize=80&animation=twinkling&fontAlignY=40"/></div>
 <div align="center">
 <h3>🔰 Shin-dongju 🔰</h3>
-<p><a href="https://eastzoo.co.kr" target="_blank"><img src="https://img.shields.io/badge/Laboratory-8E7CC3?style=flat&logo=Notion&logoColor=white"/></a></p>
+<p><a href="https://eastzoo.github.io/#home" target="_blank"><img src="https://img.shields.io/badge/Laboratory-8E7CC3?style=flat&logo=blog&logoColor=white"/></a></p>
 <p>I'm a student who dreams of becoming a developer!</p>
 <p>My main skills is Loading..</p>
  
