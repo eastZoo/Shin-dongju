@@ -35,7 +35,7 @@
 
 <p><img src="https://img.shields.io/badge/Node.js-c2c5c5?style=flat&logo=Node.js&logoColor=339933"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Python-white?style=flat&logo=Python&logoColor=#3776AB"/></p>
 
-<p><img src="https://img.shields.io/badge/Notion-b4f5bd?style=flat&logo=Notion&logoColor=black"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Git-blue?style=flat&logo=Git&logoColor=F05032"/><img src="https://img.shields.io/badge/NestJs-white?style=flat&logo=NestJs&logoColor=#2676AB"/></p>
+<p><img src="https://img.shields.io/badge/Notion-b4f5bd?style=flat&logo=Notion&logoColor=black"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Git-blue?style=flat&logo=Git&logoColor=F05032"/></p>
 
 #
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=eastzoo&show_icons=true&theme=tokyonight)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eastzoo&layout=compact&theme=tokyonight)
